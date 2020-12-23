@@ -10,6 +10,7 @@ package com.joker.Test;/*
 
 public class test {
     public static void main(String[] args) {
+        System.out.println("sadaasd");
         System.out.println("sdea");
     }
 }
