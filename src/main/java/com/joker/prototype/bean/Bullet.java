@@ -1,4 +1,4 @@
-package prototype.bean;/*
+package com.joker.prototype.bean;/*
  *项目名: Design-Patterns
  *文件名: Bullet
  *创建者: 张昊

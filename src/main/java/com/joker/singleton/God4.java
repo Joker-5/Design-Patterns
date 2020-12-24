@@ -1,4 +1,4 @@
-package singleton;/*
+package com.joker.singleton;/*
  *项目名: Design-Patterns
  *文件名: God4
  *创建者: 张昊

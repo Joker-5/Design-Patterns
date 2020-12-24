@@ -1,4 +1,4 @@
-package prototype.pattern;/*
+package com.joker.prototype.pattern;/*
  *项目名: Design-Patterns
  *文件名: PlaneFactory
  *创建者: 张昊
@@ -7,7 +7,7 @@ package prototype.pattern;/*
 
  */
 
-import prototype.bean.Plane;
+import com.joker.prototype.bean.Plane;
 
 public class PlaneFactory {
     //定义原型
