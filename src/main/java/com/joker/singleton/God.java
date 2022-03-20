@@ -1,11 +1,4 @@
-package com.joker.singleton;/*
- *项目名: Design-Patterns
- *文件名: God
- *创建者: 张昊
- *创建时间:2020/12/24 13:26
- *描述: 创建唯一神
-
- */
+package com.joker.singleton;
 
 
 public class God {

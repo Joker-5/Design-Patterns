@@ -1,11 +1,4 @@
-package com.joker.singleton;/*
- *项目名: Design-Patterns
- *文件名: God3
- *创建者: 张昊
- *创建时间:2020/12/24 13:40
- *描述: TODO
-
- */
+package com.joker.singleton;
 
 public class God3 {
     private static God3 god;

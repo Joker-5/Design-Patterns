@@ -1,11 +1,4 @@
-package com.joker.iter;/*
- *项目名: Design-Patterns
- *文件名: Client
- *创建者: 张昊
- *创建时间:2020/12/26 15:03
- *描述: TODO
-
- */
+package com.joker.iter;
 
 public class Client {
     public static void main(String[] args) {
