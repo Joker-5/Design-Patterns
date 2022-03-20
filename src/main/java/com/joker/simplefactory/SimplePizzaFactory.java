@@ -4,9 +4,9 @@ package com.joker.simplefactory;
 public class SimplePizzaFactory {
     public Pizza createPizza(String type) {
         Pizza pizza = null;
-        if (type.equals("cheese")) {
+        if ("cheese".equals(type)) {
             pizza = new CheesePizza();
-        } else if (type.equals("pepperoni")) {
+        } else if ("pepperoni".equals(type)) {
             pizza = new PepperoniPizza();
         }
         return pizza;
